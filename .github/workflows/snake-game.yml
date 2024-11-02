@@ -1,0 +1,45 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the master branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # checkout the master branch
+      - uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # commit and push the generated svg to the master branch
+      - name: commit and push the generated svg to the master branch
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git commit -m "Update github-contribution-grid-snake.svg"
+          git push
