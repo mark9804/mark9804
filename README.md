@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/mark9804/mark9804/main/dist/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/mark9804/mark9804/refs/heads/master/dist/github-contribution-grid-snake.svg)
 
 <!--
 **mark9804/mark9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
