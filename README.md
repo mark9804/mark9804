@@ -39,7 +39,7 @@ Fun facts:
 
 Sit down and have a break! The Snake will take the rest of the work.
 
-<figure style="text-align: center; color: #8c8c8c; font-size: 0.8rem;">
+<figure align="center" style="text-align: center; color: #8c8c8c; font-size: 0.8rem;">
 <img src="https://raw.githubusercontent.com/mark9804/mark9804/refs/heads/master/dist/github-contribution-grid-snake.svg" alt="My contribution graph">
 <figcaption>My contribution graph</figcaption>
 </figure>
