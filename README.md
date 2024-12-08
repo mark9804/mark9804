@@ -25,7 +25,7 @@ I'm currently working on …
   - More to come!
 - Derivative animation for some certain anime game:
   - [Millenium Game Developers（千年游戏制作人）on Bilibili](https://www.bilibili.com/video/BV19K421C722/)
-- [My blog](https://mark9804.vercel.app/)
+- [My blog](https://mark9804.github.io/)
 - My research projects
 
 Fun facts:
