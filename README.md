@@ -25,7 +25,7 @@ I'm currently working on …
   - More to come!
 - Derivative animation for some certain anime game:
   - [Millenium Game Developers（千年游戏制作人）on Bilibili](https://www.bilibili.com/video/BV19K421C722/)
-- [My blog](https://mark9804.github.io/)
+- [My blog](https://mark9804.github.io/), [source code](https://github.com/mark9804/blog)
 - My research projects
 
 Fun facts:
@@ -33,7 +33,7 @@ Fun facts:
 - No cilantro please. No. Never.
 - Like traveling. Have been to Paris, Rouen, Prague, London, Bangkok, and many places in Japan. (And China of course)
 - Like cloudy days and rainy days. Hate hot sunny humid days and summer.
-- Have many <ruby>gooooooooooood<rt>supercalifragilisticexpialidocious</rt></ruby> friends. Although they don't visit GitHub, but thank you all. Sincerely.
+- Have some but very <ruby>gooooooooooood<rt>supercalifragilisticexpialidocious</rt></ruby> friends. Although they don't visit GitHub, but thank you all. Sincerely.
 
 ---
 
