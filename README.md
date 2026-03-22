@@ -12,10 +12,13 @@ I'm a(n) …
 - Game Designer (I think so)
 - Photographer (I think so)
 - Master of Psychology (My university thinks so)
-- Mastering artificial intelligence in Rikkyo University
+- Mastering artificial intelligence at Rikkyo University
 
 I'm currently working on …
 
+- My research projects
+- [Open-source research utilities](https://github.com/RikkyoMLP)
+- [My blog](https://mark9804.github.io/), [source code](https://github.com/mark9804/blog)
 - [WebGAL for some certain anime game](https://blue-archive.io)
 - Derivative games for some certain anime game:
   - [Koharu 2048（小春 2048）](https://koharu.blue-archive.io/) feat: Web live2d and Expectimax 2048 AI
@@ -25,8 +28,6 @@ I'm currently working on …
   - More to come!
 - Derivative animation for some certain anime game:
   - [Millenium Game Developers（千年游戏制作人）on Bilibili](https://www.bilibili.com/video/BV19K421C722/)
-- [My blog](https://mark9804.github.io/), [source code](https://github.com/mark9804/blog)
-- My research projects
 
 Fun facts:
 
