@@ -17,7 +17,7 @@ I'm a(n) …
 I'm currently working on …
 
 - My research projects
-- [Open-source research utilities](https://github.com/RikkyoMLP)
+- [Open-source research toolchain](https://github.com/RikkyoMLP) for Hyperspectral Image Reconstruction (HSIR)
 - [My blog](https://mark9804.github.io/), [source code](https://github.com/mark9804/blog)
 - [WebGAL for some certain anime game](https://blue-archive.io)
 - Derivative games for some certain anime game:
