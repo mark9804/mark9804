@@ -4,7 +4,14 @@ You can call me Mark.
 
 Reach me via [email](mailto:chenzhaolu_deer@outlook.com).
 
-I'm a(n) …
+<a href="https://ghfind.com/u/mark9804?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/mark9804?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/mark9804?theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
+### I'm a(n) …
 
 - Team leader at [@ba-archive](https://github.com/ba-archive)
 - Frontend Engineer (I think so)
@@ -14,7 +21,7 @@ I'm a(n) …
 - Master of Psychology (My university thinks so)
 - Mastering artificial intelligence at Rikkyo University
 
-I'm currently working on …
+### I'm currently working on …
 
 - My research projects
 - [Open-source research toolchain](https://github.com/RikkyoMLP) for Hyperspectral Image Reconstruction (HSIR)
@@ -29,7 +36,7 @@ I'm currently working on …
 - Derivative animation for some certain anime game:
   - [Millenium Game Developers（千年游戏制作人）on Bilibili](https://www.bilibili.com/video/BV19K421C722/)
 
-Fun facts:
+### Facts:
 
 - No cilantro please. No. Never.
 - Like traveling. Have been to Paris, Rouen, Prague, London, Bangkok, and many places in Japan. (And China of course)
